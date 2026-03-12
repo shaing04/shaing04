@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 ✨ Data Science Student @ UCSD<br>💗 Passion for Data, AI/ML & Human Computer Interaction
 
