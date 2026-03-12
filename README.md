@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+[![Portfolio](https://shaing04.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/susana-haing) 
 
 # 💻 Tech Stack:
